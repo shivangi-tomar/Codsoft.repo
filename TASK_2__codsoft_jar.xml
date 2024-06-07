@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="TASK 2  codsoft:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/TASK_2__codsoft_jar</output-path>
-    <root id="archive" name="TASK 2  codsoft.jar">
-      <element id="module-output" name="TASK 2  codsoft" />
-      <element id="directory" name="codsoft" />
-    </root>
-  </artifact>
-</component>
